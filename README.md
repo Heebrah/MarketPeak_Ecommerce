@@ -135,6 +135,7 @@ and commit into the branch
 ![capstone pics](my-img/20%20git%20pull%20into%20aws.jpg)
 
 `` sudo systemctl reload httpd ``
+
 ![capstone pics](my-img/21.%20sudo%20systemctl%20reload.jpg)
 
 ### ✅ Now i can now copy the updated folder into my httpd folder

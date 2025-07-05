@@ -81,6 +81,12 @@ sudo yum install git -y
 
 ### ✅ You can update and then install apache web server into the ec2 instance terminal.
 The apache web server is a server that allow one to host a web.
+```
+sudo yum uupdate -y
+sudo yum install httpd
+sudo systemctl reload httpd
+sudo systemctl enable httpd
+```
 ![capstone pics](my-img/7.%20upgrade.jpg)
 
 ### ✅ You need to copy the MarketPeak_Ecommerce directory into the httpd so that it can be able to display it on the server
